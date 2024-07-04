@@ -1,0 +1,9 @@
+Flask
+torch
+flask_restful
+bcrypt
+request
+ultralytics
+numpy
+pillow
+mlflow
