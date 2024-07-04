@@ -1,0 +1,25 @@
+path: D:\opg\opg_bbox1
+train: D:\opg\opg_bbox1\train\images
+val: D:\opg\opg_bbox1\val\images
+#test: D:\opg\opg_bbox1\test\images
+nc: 19
+names:
+- absent_tooth
+- dental_caries_old
+- bone_loss_old
+- periapical_abnormality_old
+- attrition
+- root_stump
+- other
+- restorations
+- prosthetics
+- microdontia
+- position
+- impacted_tooth
+- fracture
+- implants
+- altered_morphology
+- periapical_abnormality
+- bone_loss
+- dental_caries
+- macrodontia
